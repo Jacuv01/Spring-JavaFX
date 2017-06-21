@@ -9,6 +9,6 @@
 <VBox prefHeight="602.0" prefWidth="803.0" xmlns="http://javafx.com/javafx/8"
       xmlns:fx="http://javafx.com/fxml/1">
     <children>
-        <fx:include fx:id="TabPane" source="tabs/TabPane.fxml" />
+        <!--<fx:include fx:id="TabPane" source="tabs/TabPane.fxml" />-->
     </children>
 </VBox>
