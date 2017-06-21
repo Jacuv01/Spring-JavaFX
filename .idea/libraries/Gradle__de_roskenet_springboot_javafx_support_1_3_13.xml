@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: de.roskenet:springboot-javafx-support:1.3.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.roskenet/springboot-javafx-support/1.3.13/7131d60efa4f188bf7680a7f7f37a28454191965/springboot-javafx-support-1.3.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.roskenet/springboot-javafx-support/1.3.13/a1cd7ff9e0937a9dc4d2d35afc84d2466ee822d0/springboot-javafx-support-1.3.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
