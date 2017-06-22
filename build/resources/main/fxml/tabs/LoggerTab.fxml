@@ -12,4 +12,3 @@
      fx:controller="com.jcchv.java.controllers.LoggerTabController">
 
 </Tab>
-

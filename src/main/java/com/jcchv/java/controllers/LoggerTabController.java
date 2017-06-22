@@ -1,8 +1,7 @@
 package com.jcchv.java.controllers;
 
-import javafx.fxml.FXML;
-import javafx.scene.control.TextArea;
+import org.springframework.stereotype.Component;
 
+@Component
 public class LoggerTabController {
-
 }
