@@ -1,4 +1,4 @@
-package com.jcchv.java.controllers;
+package com.jcchv.java.controller;
 
 import org.springframework.stereotype.Component;
 

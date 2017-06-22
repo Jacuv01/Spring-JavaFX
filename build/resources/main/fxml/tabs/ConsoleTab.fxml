@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.Font?>
 
-<Tab fx:id="consoleTab" text="Console" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.jcchv.java.controllers.ConsoleTabController">
+<Tab fx:id="consoleTab" text="Console" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.jcchv.java.controller.ConsoleTabController">
     <content>
         <Pane prefHeight="398.0" prefWidth="714.0">
             <children>

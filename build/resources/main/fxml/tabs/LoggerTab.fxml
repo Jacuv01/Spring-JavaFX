@@ -9,6 +9,6 @@
 
 
 <Tab fx:id="tabLogger" text="Logger" xmlns:fx="http://javafx.com/fxml/1"
-     fx:controller="com.jcchv.java.controllers.LoggerTabController">
+     fx:controller="com.jcchv.java.controller.LoggerTabController">
 
 </Tab>
