@@ -9,6 +9,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
+
 @SpringBootApplication
 public class Main extends Application {
 
@@ -33,6 +34,7 @@ public class Main extends Application {
         primaryStage.show();
         primaryStage.setTitle("Spring Java-FX");
         primaryStage.show();
+
     }
 
     @Override
