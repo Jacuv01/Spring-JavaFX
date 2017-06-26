@@ -1,7 +1,7 @@
 package com.jcchv.java.tray.animations;
 
+import com.jcchv.java.model.CustomStage;
 import javafx.animation.*;
-import models.CustomStage;
 import javafx.util.Duration;
 
 public class PopupAnimation implements TrayAnimation {

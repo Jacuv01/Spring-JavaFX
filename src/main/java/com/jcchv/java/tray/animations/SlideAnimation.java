@@ -1,8 +1,9 @@
 package com.jcchv.java.tray.animations;
 
+import com.jcchv.java.model.CustomStage;
 import javafx.animation.*;
 import javafx.util.Duration;
-import models.CustomStage;
+
 
 public class SlideAnimation implements TrayAnimation {
 

@@ -1,11 +1,12 @@
 package com.jcchv.java.tray.animations;
 
+import com.jcchv.java.model.CustomStage;
 import javafx.animation.KeyFrame;
 import javafx.animation.KeyValue;
 import javafx.animation.SequentialTransition;
 import javafx.animation.Timeline;
 import javafx.util.Duration;
-import models.CustomStage;
+
 
 public class FadeAnimation implements TrayAnimation {
 
