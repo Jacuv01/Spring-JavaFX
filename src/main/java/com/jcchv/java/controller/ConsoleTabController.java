@@ -7,8 +7,6 @@ import javafx.scene.control.Label;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import javafx.event.ActionEvent;
-import com.jcchv.java.tray.notification.NotificationType;
-import com.jcchv.java.tray.notification.TrayNotification;
 
 
 import java.net.URL;
@@ -33,11 +31,7 @@ public class ConsoleTabController implements Initializable {
     @FXML
     private void sayHello(ActionEvent onMouseClicked) {
         lblSpring.setText(springService.getSpring().getSpring());
-        String title = "Congratulations sir";
-        String message = "You've successfully created your first Tray Notification";
-        NotificationType notification = NotificationType.SUCCESS;
-        TrayNotification tray = new TrayNotification(title, message, notification);
-        tray.showAndWait();
+
     }
 
     @Override
