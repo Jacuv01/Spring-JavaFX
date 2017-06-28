@@ -25,10 +25,6 @@ Manual
 
 5. Test your setup by invoking gradle --version.
 
-# Contribute
-
-if you have any input, or contributions, please share!
-
 # MVC Structure
     . 
     ├──── java              
@@ -42,6 +38,8 @@ if you have any input, or contributions, please share!
     │      └── img          # image folder 
     
     
-    
+# Contribute
+
+if you have any input, or contributions, please share!
     
     
