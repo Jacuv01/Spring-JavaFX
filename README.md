@@ -1,5 +1,5 @@
 # Spring-JavaFX
-Spring-JavaFX is a Spring Boot and JavaFX Integration it provides a simple Template ready to use in your desktop projects
+Spring-JavaFX is a Spring Boot and JavaFX Integration, Spring Boot provides you necessary components to implement MVC, IOC and AOP. Spring boot also can be integrated in a JavaFX project and there is absolutely no requirement for XML configuration.
 
 # Install
 
@@ -28,3 +28,20 @@ Manual
 # Contribute
 
 if you have any input, or contributions, please share!
+
+# MVC Structure
+    . 
+    ├──── java              
+    │      ├── controller   # Controllers
+    │      ├── data         # Repositories
+    │      ├── model        # POJO's
+    │      └── services     # Services
+    ├──── resources           
+    │      ├── css          # css folder
+    │      ├── fxml         # views
+    │      └── img          # image folder 
+    
+    
+    
+    
+    
