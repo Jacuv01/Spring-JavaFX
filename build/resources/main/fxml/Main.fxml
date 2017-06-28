@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import com.jfoenix.controls.JFXButton?>
 <?import javafx.geometry.Insets?>
 <?import javafx.scene.Cursor?>
 <?import javafx.scene.layout.VBox?>
 
-<VBox alignment="CENTER" prefHeight="670.0" prefWidth="867.0" styleClass="mainContainer" stylesheets="@../css/Main.css" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1">
+<VBox alignment="CENTER" prefHeight="670.0" prefWidth="867.0" stylesheets="@../css/Main.css" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" styleClass="mainContainer">
     <children>
-      <JFXButton mnemonicParsing="false" text="Button" />
         <fx:include fx:id="TabPane" source="tabs/TabPane.fxml" />
     </children>
    <opaqueInsets>
